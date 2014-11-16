@@ -49,7 +49,7 @@ http://www.dogevisitor.tk/?r=6080<br>
 http://doge.gmathews.com<br>
 http://dogecoin-p2pool.com:8080/<br><br>
 
-BITCOIN FREE FAUCET:<br>
+<h3>BITCOIN FREE FAUCET:</h3>
 http://coincheckin.com/?r=98de7a3ffa EVERY 5 MINUTE<br>
 http://moonbit.co.in/?ref=66433a0a9954 EVERY 5 MINUTE<br>
 https://datafaucet.info/?id=632467 EVERY HOUR<br>
@@ -67,4 +67,7 @@ http://freedoge.co.in/?r=98513<br>
 http://www.cryptocombo.com/?a=2907<br>
 http://myfreedoge.com/?r=11828<br><br>
 
-
+<h3>Donate us to help us find more sources for you</h3>
+<b>BitCoin</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj<br>
+<b>LiteCoin</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW<br>
+<b>DogeCoin</b> DJn47gWcik545dwpssKVJ1weDPcAs62SZu
