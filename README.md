@@ -1,5 +1,3 @@
-<html>
-<body>
 how-to-earn-bitcoin-litecoin-dogecoin-for-free
 ==============================================
 
@@ -68,9 +66,6 @@ how-to-earn-bitcoin-litecoin-dogecoin-for-free
 
 
 <h3>Donate us to help us find more sources for you</h3>
-<b>BitCoin:</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj"><br>
-<b>LiteCoin:</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW"><br>
+<b>BitCoin:</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj<br>
+<b>LiteCoin:</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW<br>
 <b>DogeCoin:</b> DJn47gWcik545dwpssKVJ1weDPcAs62SZu
-
-</body>
-</html>
