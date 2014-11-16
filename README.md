@@ -65,7 +65,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <a href="https://datafaucet.info/?id=632467 EVERY HOUR">datafaucet</a><br>
 <a href="http://freebitcoinwin.com/?r=57614 EVERY HOUR">freebitcoinwin</a><br>
 <a href="http://freebitco.in/?r=839239 EVERY HOUR">freebitco</a><br>
-<a href="http://faucet.bitcoinzebra.com/?ref=e201e394059e EVERY HOUR"></a><br>
+<a href="http://faucet.bitcoinzebra.com/?ref=e201e394059e EVERY HOUR">bitcoinzebra</a><br>
 <a href="https://777bitco.in/?Referrer=62703 EVERY HOUR">777bitco</a><br><br>
 
 
