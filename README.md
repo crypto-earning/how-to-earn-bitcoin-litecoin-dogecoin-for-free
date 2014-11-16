@@ -36,7 +36,7 @@ how-to-earn-bitcoin-litecoin-dogecoin-for-free
 <a href="http://dry67.us/faucet.php?coin=DOGE">dry67.us</a><br>
 <a href="http://euh55.us/faucet.php?coin=DOGE">euh55.us</a><br>
 <a href="http://35and.us/faucet.php?coin=DOGE">35and.us</a><br>
-<a href="http://gft45.us/faucet.php?coin=DOGE"></a><br>
+<a href="http://gft45.us/faucet.php?coin=DOGE">gft45.us</a><br>
 <a href="http://dod44.us/faucet.php?coin=DOGE">dod44.us</a><br>
 <a href="http://key02.us/faucet.php?coin=DOGE">key02.us</a><br>
 <a href="http://dmadma.us/faucet.php?coin=DOGE">dmadma.us</a><br>
@@ -47,7 +47,7 @@ how-to-earn-bitcoin-litecoin-dogecoin-for-free
 <a href="http://jsajsa.us/faucet.php?coin=DOGE">jsajsa.us</a><br>
 <a href="http://jesus1457.com/faucet.php?coin=DOGE">jesus1457.com</a><br>
 <a href="http://cryptotide.com/faucet.php?coin=DOGE">cryptotide.com</a><br>
-<a href="http://wowsuchfaucet.com.ar/"></a>wowsuchfaucet.com<br>
+<a href="http://wowsuchfaucet.com.ar/">wowsuchfaucet.com</a><br>
 <a href="http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/">bitcoinmafia.com</a><br>
 <a href="http://dogedroppings.com/">dogedroppings.com</a><br>
 <a href="http://indogewetrust.com/">indogewetrust.com</a><br>
