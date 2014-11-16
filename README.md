@@ -1,8 +1,6 @@
 how-to-earn-bitcoin-litecoin-dogecoin-for-free
 ==============================================
 
-I will guide you to earn bitcoin, litecoin, dogecoin for free<br>
-
 <h3>A list of Free DogeCoin Faucets to earn 1 up to 10 DogeCoin once everyday!</h3>
 http://cryptospout.com/faucet.php?coin=DOGE&id=1270<br>
 http://jih22.us/faucet.php?coin=DOGE<br>
