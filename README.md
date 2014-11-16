@@ -1,6 +1,10 @@
 how-to-earn-bitcoin-litecoin-dogecoin-for-free
 ==============================================
 
+I have shared some DogeCoin, BitCoin and LiteCoin Free Earning Faucets to earn coins for free.<br>
+Earning is simple. Just input the your DogeCoin, BitCoin or LiteCoin address and claim your money.<br>
+If you need any kind of guidance, feel free to contact me at eapro.net [at] gmail.com<br>
+
 <h3>Earn BitCoin, LiteCoin, DogeCoin Combined:</h3>
 <a href="http://www.cryptocombo.com/?a=2907 EVERY HOUR">cryptocombo</a><br><br>
 
