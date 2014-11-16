@@ -3,7 +3,7 @@ how-to-earn-bitcoin-litecoin-dogecoin-for-free
 
 I will guide you to earn bitcoin, litecoin, dogecoin for free<br>
 
-A list of Free DogeCoin Faucets to earn 1 up to 10 DogeCoin once everyday!<br>
+<h3>A list of Free DogeCoin Faucets to earn 1 up to 10 DogeCoin once everyday!</h3>
 http://cryptospout.com/faucet.php?coin=DOGE&id=1270<br>
 http://jih22.us/faucet.php?coin=DOGE<br>
 http://toh34.us/faucet.php?coin=DOGE<br>
@@ -31,7 +31,7 @@ http://doge.freefaucet.com.ar/<br>
 http://www.thebitcoinmaster.com/dogecoin/<br><br>
 
 
-DOGECOIN FREE FAUCET:<br>
+<h3>DOGECOIN FREE FAUCET:</h3>
 http://moondoge.co.in/?ref=32d2e46d5e50 EVERY 5 MINUTE<br>
 http://freedoge.co.in/?r=98513 EVERY HOUR<br>
 http://doge.rena-faucet.com/index.php?id=28966 EVERY HOUR<br>
@@ -58,11 +58,13 @@ http://freebitco.in/?r=839239 EVERY HOUR<br>
 http://faucet.bitcoinzebra.com/?ref=e201e394059e EVERY HOUR<br>
 https://777bitco.in/?Referrer=62703 EVERY HOUR<br><br>
 
-COMBO FREE FAUCET:<br>
+<h3>COMBO FREE FAUCET:</h3>
 http://www.cryptocombo.com/?a=2907 EVERY HOUR<br><br>
 
-Recommended Free Faucets to Earn DogeCoin Fast:<br>
+<h3>Recommended Free Faucets to Earn DogeCoin Fast:</h3>
 http://moondoge.co.in/?ref=32d2e46d5e50<br>
 http://freedoge.co.in/?r=98513<br>
 http://www.cryptocombo.com/?a=2907<br>
-http://myfreedoge.com/?r=11828
+http://myfreedoge.com/?r=11828<br><br>
+
+
