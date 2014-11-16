@@ -66,6 +66,6 @@ http://www.cryptocombo.com/?a=2907<br>
 http://myfreedoge.com/?r=11828<br><br>
 
 <h3>Donate us to help us find more sources for you</h3>
-<b>BitCoin</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj<br>
-<b>LiteCoin</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW<br>
-<b>DogeCoin</b> DJn47gWcik545dwpssKVJ1weDPcAs62SZu
+<b>BitCoin:</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj<br>
+<b>LiteCoin:</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW<br>
+<b>DogeCoin:</b> DJn47gWcik545dwpssKVJ1weDPcAs62SZu
