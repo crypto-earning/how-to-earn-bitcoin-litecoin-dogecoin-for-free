@@ -17,7 +17,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <h3>DOGECOIN FREE FAUCET:</h3>
 <a href="http://moondoge.co.in/?ref=32d2e46d5e50 EVERY 5 MINUTE">moondoge</a><br>
 <a href="http://freedoge.co.in/?r=98513 EVERY HOUR">freedoge</a><br>
-<a href="http://myfreedoge.com/?r=11828"></a><br>
+<a href="http://myfreedoge.com/?r=11828">myfreedoge</a><br>
 <a href="http://doge.rena-faucet.com/index.php?id=28966 EVERY HOUR">rena-faucet</a><br>
 <a href="http://wow.bitcoinproject.net/ EVERY HOUR">bitcoinproject</a><br>
 <a href="http://suchfaucet.nf-soft.cz/index.php EVERY HOUR">suchfaucet</a><br>
