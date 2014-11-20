@@ -10,10 +10,14 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <a href="http://www.cryptocombo.com/?a=2907 EVERY HOUR">cryptocombo</a>
 
 <h3>Recommended Free Faucets to Earn DogeCoin Fast:</h3>
-<a href="http://moondoge.co.in/?ref=32d2e46d5e50">moondoge</a><br>
-<a href="http://freedoge.co.in/?r=98513">freedoge</a><br>
-<a href="http://www.cryptocombo.com/?a=2907">cryptocombo</a><br>
-<a href="http://myfreedoge.com/?r=11828">myfreedoge</a>
+<table width="100%">
+<tr>
+<td><a href="http://moondoge.co.in/?ref=32d2e46d5e50">moondoge</a></td>
+<td><a href="http://freedoge.co.in/?r=98513">freedoge</a></td>
+<td><a href="http://www.cryptocombo.com/?a=2907">cryptocombo</a></td>
+<td><a href="http://myfreedoge.com/?r=11828">myfreedoge</a></td>
+</tr>
+</table>
 
 <h3>DOGECOIN FREE FAUCET:</h3>
 <a href="http://moondoge.co.in/?ref=32d2e46d5e50 EVERY 5 MINUTE">moondoge</a><br>
