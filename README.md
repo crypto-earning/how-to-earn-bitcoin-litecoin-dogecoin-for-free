@@ -111,6 +111,8 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 </table>
 
 <h3>Donate us to help us find more sources for you</h3>
-<b>BitCoin:</b> 14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj<br>
-<b>LiteCoin:</b> 37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW<br>
-<b>DogeCoin:</b> DJn47gWcik545dwpssKVJ1weDPcAs62SZu
+<table>
+<tr><td><b>BitCoin:</b></td><td>14NGVoCLc6Hi1P3CqyB1HwZBGLAXW7U7cj</td></tr>
+<tr><td><b>LiteCoin:</b></td><td>37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW</td></tr>
+<tr><td><b>DogeCoin:</b></td><td>DJn47gWcik545dwpssKVJ1weDPcAs62SZu</td></tr>
+</table>
