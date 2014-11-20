@@ -1,3 +1,4 @@
+<html>
 how-to-earn-bitcoin-litecoin-dogecoin-for-free
 ==============================================
 
@@ -6,13 +7,13 @@ Earning is simple. Just input the your DogeCoin, BitCoin or LiteCoin address and
 If you need any kind of guidance, feel free to contact me at eapro.net [at] gmail.com<br>
 
 <h3>Earn BitCoin, LiteCoin, DogeCoin Combined:</h3>
-<a href="http://www.cryptocombo.com/?a=2907 EVERY HOUR">cryptocombo</a><br><br>
+<a href="http://www.cryptocombo.com/?a=2907 EVERY HOUR">cryptocombo</a>
 
 <h3>Recommended Free Faucets to Earn DogeCoin Fast:</h3>
 <a href="http://moondoge.co.in/?ref=32d2e46d5e50">moondoge</a><br>
 <a href="http://freedoge.co.in/?r=98513">freedoge</a><br>
 <a href="http://www.cryptocombo.com/?a=2907">cryptocombo</a><br>
-<a href="http://myfreedoge.com/?r=11828">myfreedoge</a><br><br>
+<a href="http://myfreedoge.com/?r=11828">myfreedoge</a>
 
 <h3>DOGECOIN FREE FAUCET:</h3>
 <a href="http://moondoge.co.in/?ref=32d2e46d5e50 EVERY 5 MINUTE">moondoge</a><br>
@@ -31,7 +32,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <a href="http://www.dogevisitor.tk/?r=6080">dogevisitor</a><br>
 <a href="http://doge.gmathews.com">gmathews</a><br>
 <a href="http://dogecoin-p2pool.com:8080/">p2pool</a><br>
-<a href="http://www.cyanrainbow.com/?id=362999">cyanrainbow.com</a><br><br>
+<a href="http://www.cyanrainbow.com/?id=362999">cyanrainbow.com</a>
 
 <h3>A list of Free DogeCoin Faucets to earn 1 up to 10 DogeCoin once everyday!</h3>
 <a href="http://cryptospout.com/faucet.php?coin=DOGE&id=1270">cryptospout.com</a><br>
@@ -56,7 +57,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <a href="http://dogedroppings.com/">dogedroppings.com</a><br>
 <a href="http://indogewetrust.com/">indogewetrust.com</a><br>
 <a href="http://doge.freefaucet.com.ar/">freefaucet.com</a><br>
-<a href="http://www.thebitcoinmaster.com/dogecoin/">thebitcoinmaster.com</a><br><br>
+<a href="http://www.thebitcoinmaster.com/dogecoin/">thebitcoinmaster.com</a>
 
 
 <h3>BITCOIN FREE FAUCET:</h3>
@@ -66,7 +67,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <a href="http://freebitcoinwin.com/?r=57614 EVERY HOUR">freebitcoinwin</a><br>
 <a href="http://freebitco.in/?r=839239 EVERY HOUR">freebitco</a><br>
 <a href="http://faucet.bitcoinzebra.com/?ref=e201e394059e EVERY HOUR">bitcoinzebra</a><br>
-<a href="https://777bitco.in/?Referrer=62703 EVERY HOUR">777bitco</a><br><br>
+<a href="https://777bitco.in/?Referrer=62703 EVERY HOUR">777bitco</a>
 
 
 <h3>Donate us to help us find more sources for you</h3>
