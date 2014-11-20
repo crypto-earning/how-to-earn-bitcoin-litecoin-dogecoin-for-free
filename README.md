@@ -6,6 +6,13 @@ I have shared some DogeCoin, BitCoin and LiteCoin Free Earning Faucets to earn c
 Earning is simple. Just input the your DogeCoin, BitCoin or LiteCoin address and claim your money.<br>
 If you need any kind of guidance, feel free to contact me at eapro.net [at] gmail.com<br>
 
+<h3>Create BitCoin/LiteCoin/DogeCoin Wallet (Account) here:</h3>
+<table>
+<tr>
+<td><a href="https://blockchain.info/wallet/new">BitCoin</a></td><td><a href="https://my.dogechain.info/#/overview">DogeCoin</a></td><td><a href="https://block.io/users/sign_up">LiteCoin</a></td>
+</tr>
+</table>
+
 <h3>Earn BitCoin, LiteCoin, DogeCoin Combined:</h3>
 <table>
 <tr>
