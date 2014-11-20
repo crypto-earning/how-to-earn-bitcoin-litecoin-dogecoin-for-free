@@ -1,7 +1,6 @@
 <html>
 <h1>Free DogeCoin Earning Guide</h1>
-==============================================
-
+<hr>
 DogeCoin is a crypto-currency. Although there are several digital currencies in the world but after the success of BitCoin (a crypto-currency) which was described by Satoshi Nakamoto, there are hundreds of new crypto-currencies in market. I want to share Information about earning DogeCoin which is 3rd largest famous crypto-currency in the world. 95% DogeCoin already distributed to people in the world and only 5% left for new comers.<br>
 
 I have shared some DogeCoin, BitCoin and LiteCoin Free Earning Faucets to earn coins for free.<br>
