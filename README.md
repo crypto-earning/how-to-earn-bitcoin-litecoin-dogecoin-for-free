@@ -1,4 +1,5 @@
 <html>
+<body style="font-size:12px; color:#333333">
 <h1>Free DogeCoin Earning Guide</h1>
 <hr>
 DogeCoin is a crypto-currency. Although there are several digital currencies in the world but after the success of BitCoin (a crypto-currency) which was described by Satoshi Nakamoto, there are hundreds of new crypto-currencies in market. I want to share Information about earning DogeCoin which is 3rd largest famous crypto-currency in the world. 95% DogeCoin already distributed to people in the world and only 5% left for new comers.<br>
@@ -124,3 +125,5 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <tr><td><b>LiteCoin:</b></td><td>37zVhUvkAQugpDbw9pNtKFrkFYb94PYuxW</td></tr>
 <tr><td><b>DogeCoin:</b></td><td>DJn47gWcik545dwpssKVJ1weDPcAs62SZu</td></tr>
 </table>
+</body>
+</html>
