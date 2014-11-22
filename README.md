@@ -18,7 +18,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <h3>Earn BitCoin, LiteCoin, DogeCoin Combined:</h3>
 <table>
 <tr>
-<td><a href="http://www.cryptocombo.com/?a=2907 EVERY HOUR" target="_blank">cryptocombo</a></td>
+<td><a href="http://www.cryptocombo.com/?a=2907" target="_blank">cryptocombo</a></td>
 </tr>
 </table>
 
