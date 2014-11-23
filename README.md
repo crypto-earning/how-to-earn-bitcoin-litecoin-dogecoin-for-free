@@ -35,14 +35,14 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <h3>DOGECOIN FREE FAUCET:</h3>
 <table width="100%" target="_blank">
 <tr>
-<td><a href="http://moondoge.co.in/?ref=32d2e46d5e50 EVERY 5 MINUTE" target="_blank">moondoge</a></td>
-<td><a href="http://freedoge.co.in/?r=98513 EVERY HOUR" target="_blank">freedoge</a></td>
+<td><a href="http://moondoge.co.in/?ref=32d2e46d5e50" target="_blank">moondoge</a></td>
+<td><a href="http://freedoge.co.in/?r=98513" target="_blank">freedoge</a></td>
 <td><a href="http://myfreedoge.com/?r=11828" target="_blank">myfreedoge</a></td>
-<td><a href="http://doge.rena-faucet.com/index.php?id=28966 EVERY HOUR" target="_blank">rena-faucet</a></td>
-<td><a href="http://wow.bitcoinproject.net/ EVERY HOUR" target="_blank">bitcoinproject</a></td>
+<td><a href="http://doge.rena-faucet.com/index.php?id=28966" target="_blank">rena-faucet</a></td>
+<td><a href="http://wow.bitcoinproject.net/" target="_blank">bitcoinproject</a></td>
 </tr>
 <tr>
-<td><a href="http://suchfaucet.nf-soft.cz/index.php EVERY HOUR" target="_blank">suchfaucet</a></td>
+<td><a href="http://suchfaucet.nf-soft.cz/index.php" target="_blank">suchfaucet</a></td>
 <td><a href="http://cryptocoinindonesia.org/doge/faucet/?r=DHYvPfQkPpsr7U3oszKUNzWGqFAV3oDd3k" target="_blank">cryptocoinindonesia</a></td>
 <td><a href="http://dogecoins.coincollectors.info/?id=1550" target="_blank">coincollectors</a></td>
 <td><a href="http://doge.btcearn.ml/?r=DHYvPfQkPpsr7U3oszKUNzWGqFAV3oDd3k" target="_blank">btcearn</a></td>
@@ -106,15 +106,15 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <h3>BITCOIN FREE FAUCET:</h3>
 <table>
 <tr>
-<td><a href="http://coincheckin.com/?r=98de7a3ffa EVERY 5 MINUTE" target="_blank">coincheckin</a></td>
-<td><a href="http://moonbit.co.in/?ref=66433a0a9954 EVERY 5 MINUTE" target="_blank">moonbit</a></td>
-<td><a href="https://datafaucet.info/?id=632467 EVERY HOUR" target="_blank">datafaucet</a></td>
-<td><a href="http://freebitcoinwin.com/?r=57614 EVERY HOUR" target="_blank">freebitcoinwin</a></td>
+<td><a href="http://coincheckin.com/?r=98de7a3ffa" target="_blank">coincheckin</a></td>
+<td><a href="http://moonbit.co.in/?ref=66433a0a9954" target="_blank">moonbit</a></td>
+<td><a href="https://datafaucet.info/?id=632467" target="_blank">datafaucet</a></td>
+<td><a href="http://freebitcoinwin.com/?r=57614" target="_blank">freebitcoinwin</a></td>
 </tr>
 <tr>
-<td><a href="http://freebitco.in/?r=839239 EVERY HOUR" target="_blank">freebitco</a></td>
-<td><a href="http://faucet.bitcoinzebra.com/?ref=e201e394059e EVERY HOUR" target="_blank">bitcoinzebra</a></td>
-<td><a href="https://777bitco.in/?Referrer=62703 EVERY HOUR" target="_blank">777bitco</a></td>
+<td><a href="http://freebitco.in/?r=839239" target="_blank">freebitco</a></td>
+<td><a href="http://faucet.bitcoinzebra.com/?ref=e201e394059e" target="_blank">bitcoinzebra</a></td>
+<td><a href="https://777bitco.in/?Referrer=62703" target="_blank">777bitco</a></td>
 <td></td>
 </tr>
 </table>
