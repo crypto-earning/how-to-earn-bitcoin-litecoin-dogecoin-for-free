@@ -28,7 +28,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <td><a href="http://moondoge.co.in/?ref=32d2e46d5e50" target="_blank">moondoge</a></td>
 <td><a href="http://freedoge.co.in/?r=98513" target="_blank">freedoge</a></td>
 <td><a href="http://www.cryptocombo.com/?a=2907" target="_blank">cryptocombo</a></td>
-<td><a href="http://myfreedoge.com/?r=11828" target="_blank">myfreedoge</a></td>
+<td><a href="http://doge2.me/?p=bsBxssqo" target="_blank">doge2me</a></td>
 </tr>
 </table>
 
@@ -37,7 +37,7 @@ If you need any kind of guidance, feel free to contact me at eapro.net [at] gmai
 <tr>
 <td><a href="http://moondoge.co.in/?ref=32d2e46d5e50" target="_blank">moondoge</a></td>
 <td><a href="http://freedoge.co.in/?r=98513" target="_blank">freedoge</a></td>
-<td><a href="http://myfreedoge.com/?r=11828" target="_blank">myfreedoge</a></td>
+<td><a href="http://doge2.me/?p=bsBxssqo" target="_blank">doge2me</a></td>
 <td><a href="http://doge.rena-faucet.com/index.php?id=28966" target="_blank">rena-faucet</a></td>
 <td><a href="http://wow.bitcoinproject.net/" target="_blank">bitcoinproject</a></td>
 </tr>
